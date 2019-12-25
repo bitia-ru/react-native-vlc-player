@@ -14,8 +14,13 @@
     "react-native",
     "mp4"
   ],
-  "author": "yuanzhou.xu",
-  "email": "635043894@qq.com",
+  "author": "Bitia",
+  "email": "contact@bitia.ru",
+  "dependencies": {
+    "react-native-orientation": "^3.1.3",
+    "react-native-slider": "^0.11.0",
+    "react-native-vector-icons": "^5.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xuyuanzhou/react-native-yz-vlcplayer.git"
